@@ -4,6 +4,8 @@
 
 #### Первоначальный проект находится по https://disk.yandex.ru/d/72Cr-D7Mc2a7Bg
 
+< github pages - https://poppiehub.github.io/module20_homework/
+
 ### Цель задания: 
 - Проверить семантику, валидность верстки и оптимизировать верстку по принципам: **DRY, KISS, YAGNI, БЭМ, SOLID**.
 
